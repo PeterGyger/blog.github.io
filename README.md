@@ -1,1 +1,1 @@
-"# blog_22" 
+Notizen zu IT-Themen 
